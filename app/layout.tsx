@@ -20,7 +20,7 @@ export const metadata: Metadata = {
         type: `website`,
     },
     verification: {
-        google: '',
+        google: 'OkPM3i2Dup4wdRnRhyYaCHf5DjlAYc9jeF38T8KvFeI',
         yandex: '',
     },
 };
